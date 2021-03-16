@@ -7,7 +7,7 @@ class Qemu < Formula
 
   stable do
     url "https://github.com/qemu/qemu/archive/5b7f5586d182b0cafb1f8d558992a14763e2953e.tar.gz"
-    sha256 "b7bc3aa0d832f41a9cf27193cb0bc751096038efaced1e7c8ad165a906bad561"
+    sha256 "46c6be3a036c2b2d1ce0d14859515db01176eacd4aa93441d13f531222fc5d39"
   end
 
   depends_on "libtool" => :build
